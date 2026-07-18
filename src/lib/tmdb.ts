@@ -5,7 +5,7 @@ export const TMDB_API_KEY = "80063cfa253b90bb6fb289cf86116b34"; // 🔑 api key
 export const TMDB_BASE = "https://api.themoviedb.org/3";
 export const TMDB_IMG = "https://image.tmdb.org/t/p";
 
-// Map TMDB genre IDs → names
+// Map TMDB genre IDs  names
 export const GENRE_MAP: Record<number, string> = {
   28: "Action",
   12: "Adventure",

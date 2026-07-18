@@ -7,7 +7,7 @@ export function TopTenRow({
   shows: Show[];
   onSelect?: (show: Show) => void;
 }) {
-  const top10 = shows.slice(0, 8);
+  const top10 = shows.slice(0, 10);
 
   return (
     <div className="mb-8">

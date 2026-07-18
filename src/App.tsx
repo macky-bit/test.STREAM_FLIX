@@ -865,7 +865,7 @@ export default function App() {
             Contact Us
           </a>
         </div>
-        <p className="text-white/20">© 2024 StreamVault, Inc.</p>
+        <p className="text-white/20">&copy;STREAMFLIX 2026</p>
       </footer>
 
       <PreviewModal
